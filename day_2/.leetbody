@@ -1,1 +1,0 @@
-{"lang":"python3","typed_code":"class Solution:\n    def maxProfit(self, prices: List[int]) -> int:\n        # 2-pointer\n        l = 0\n        profit = 0\n        for r in range(1,len(prices)):\n            cur = prices[r] - prices[l]\n            if cur <= 0: l = r\n            profit = max(profit, cur)\n\n        return profit\n        ","question_id":"121"}
