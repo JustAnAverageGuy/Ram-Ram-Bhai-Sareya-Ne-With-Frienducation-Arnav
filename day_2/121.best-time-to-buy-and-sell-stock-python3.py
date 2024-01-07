@@ -1,8 +1,7 @@
 # @leet start
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # 2-pointer
-        l = 0
+        l = 0 # l basically tracks the index of the least value we have seen till now
         profit = 0
         for r in range(1,len(prices)):
             cur = prices[r] - prices[l]
