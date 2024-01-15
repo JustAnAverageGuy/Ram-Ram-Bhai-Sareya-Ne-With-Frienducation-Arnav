@@ -10,3 +10,5 @@
 | 6   | [36](./day_6/36.valid-sudoku-python3.py)                      , [532](./day_6/532.k-diff-pairs-in-an-array-python3.py)                              |
 | 7   | [125](./day_7/125.valid-palindrome-python3.py)                , [242](./day_7/242.valid-anagram-python3.py)                                         |
 | 8   | [5](./day_8/5.longest-palindromic-substring-python3.py)       , [34](./day_8/34.find-first-and-last-position-of-element-in-sorted-array-python3.py) |
+| 9   | [74](./day_9/74.search-a-2d-matrix-python3.py)                , [240](./day_9/240.search-a-2d-matrix-ii-python3.py)                                 |
+| 10  | [cod_ninja](./day_10/allocate_books.py)                       , [875](./day_10/875.koko-eating-bananas-python3.py)                                  |
