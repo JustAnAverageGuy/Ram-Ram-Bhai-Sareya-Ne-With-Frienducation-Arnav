@@ -12,3 +12,9 @@
 | 8   | [5](./day_8/5.longest-palindromic-substring-python3.py)       , [34](./day_8/34.find-first-and-last-position-of-element-in-sorted-array-python3.py) |
 | 9   | [74](./day_9/74.search-a-2d-matrix-python3.py)                , [240](./day_9/240.search-a-2d-matrix-ii-python3.py)                                 |
 | 10  | [cod_ninja](./day_10/allocate_books.py)                       , [875](./day_10/875.koko-eating-bananas-python3.py)                                  |
+| 11  | [11](./day_11/painters_partition.py)                          , [41](./day_11/41.first-missing-positive-python3.py)                                 |
+| 12  | [31](./day_12/31.next-permutation-python3.py)                 , [169](./day_12/169.majority-element-python3.py)                                     |
+| 13  | [42](./day_13/42.trapping-rain-water-python3.py)              , [876](./day_13/876.middle-of-the-linked-list-python3.py)                            |
+| 14  | [cod_ninja](./day_14/sort01.py)                               , [17](./day_14/17.letter-combinations-of-a-phone-number-python3.py)                  |
+| 15  | [37](./day_15/37.sudoku-solver-python3.py)                    , [39](./day_15/39.combination-sum-python3.py)                                        |
+| 16  | [78](./day_16/78.subsets-python3.py)                          , [136](./day_16/136.single-number-python3.py)                                        |
