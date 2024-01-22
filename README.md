@@ -18,3 +18,4 @@
 | 14  | [cod_ninja](./day_14/sort01.py)                               , [17](./day_14/17.letter-combinations-of-a-phone-number-python3.py)                  |
 | 15  | [37](./day_15/37.sudoku-solver-python3.py)                    , [39](./day_15/39.combination-sum-python3.py)                                        |
 | 16  | [78](./day_16/78.subsets-python3.py)                          , [136](./day_16/136.single-number-python3.py)                                        |
+| 17  | [137](./day_17/137.single-number-ii-python3.py)               , [21](./day_17/21.merge-two-sorted-lists-python3.py)                                 |
