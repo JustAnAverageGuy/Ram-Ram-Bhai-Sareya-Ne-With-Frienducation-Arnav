@@ -19,3 +19,5 @@
 | 15  | [37](./day_15/37.sudoku-solver-python3.py)                    , [39](./day_15/39.combination-sum-python3.py)                                        |
 | 16  | [78](./day_16/78.subsets-python3.py)                          , [136](./day_16/136.single-number-python3.py)                                        |
 | 17  | [137](./day_17/137.single-number-ii-python3.py)               , [21](./day_17/21.merge-two-sorted-lists-python3.py)                                 |
+| 18  | [2](./day_18/2.add-two-numbers-python3.py)                    , [23](./day_18/23.merge-k-sorted-lists-python3.py)                                   |
+| 19  | [206](./day_19/206.reverse-linked-list-python3.py)            , [20](./day_19/20.valid-parentheses-python3.py)                                      |
