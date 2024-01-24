@@ -6,5 +6,11 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        
+        if head is None: return None
+        prev = head
+        curr  = head.next
+        head.next = None
+        while curr:
+            curr.next, curr, prev = prev, curr.next, curr
+        return prev
 # @leet end
