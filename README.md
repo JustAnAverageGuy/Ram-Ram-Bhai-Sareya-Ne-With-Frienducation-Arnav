@@ -21,3 +21,5 @@
 | 17  | [137](./day_17/137.single-number-ii-python3.py)               , [21](./day_17/21.merge-two-sorted-lists-python3.py)                                 |
 | 18  | [2](./day_18/2.add-two-numbers-python3.py)                    , [23](./day_18/23.merge-k-sorted-lists-python3.py)                                   |
 | 19  | [206](./day_19/206.reverse-linked-list-python3.py)            , [20](./day_19/20.valid-parentheses-python3.py)                                      |
+| 20  | [155](./day_20/155.min-stack-python3.py)                      , [84](./day_20/84.largest-rectangle-in-histogram-python3.py)                         |
+| 21  | [int_bit](./day_21/nearest_smaller_element.py)                , [239](./day_21/239.sliding-window-maximum-python3.py)                               |
