@@ -23,3 +23,4 @@
 | 19  | [206](./day_19/206.reverse-linked-list-python3.py)            , [20](./day_19/20.valid-parentheses-python3.py)                                      |
 | 20  | [155](./day_20/155.min-stack-python3.py)                      , [84](./day_20/84.largest-rectangle-in-histogram-python3.py)                         |
 | 21  | [int_bit](./day_21/nearest_smaller_element.py)                , [239](./day_21/239.sliding-window-maximum-python3.py)                               |
+| 22  | [22](./day_22/55.jump-game-python3.py)                        , [gfg](./day_22/fractional_knapsack.py)                                              |
