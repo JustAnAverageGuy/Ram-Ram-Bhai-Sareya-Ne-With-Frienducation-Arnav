@@ -9,5 +9,8 @@ class Solution:
 
     def fib(self, n: int) -> int:
         return self.A[n]
+        # a,b = 1,0
+        # for _ in range(n): a,b = b,a+b
+        # return b
 
 # @leet end
