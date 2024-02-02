@@ -8,13 +8,13 @@
 
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
+        if root is None: return True
         stk = [(root, float('-inf'), float('inf'))]
         while stk:
             node, lower_bound, upper_bound = stk.pop()
-            if node is None: continue
             if not (lower_bound < node.val < upper_bound): return False
-            stk.append((node.right, max(lower_bound, node.val), upper_bound))
-            stk.append((node.left, lower_bound, min(upper_bound, node.val)))
+            if node.right: stk.append((node.right, max(lower_bound, node.val), upper_bound))
+            if node.left: stk.append((node.left, lower_bound, min(upper_bound, node.val)))
         return True
         
         
